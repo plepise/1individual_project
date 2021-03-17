@@ -1,0 +1,38 @@
+/* just header */
+
+header {
+    background:rgb(233, 181, 181);
+    padding:0px 0px 15px;
+    width:100%;
+    height: 30px;
+    margin: 0;
+    text-align: center;
+  }
+
+  ul {
+  padding:0 0 0 15;
+  display: inline;
+  list-style-type: none;
+  float: right;
+  }
+
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  li a {
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font-weight: lighter;
+    font-family: fantasy;
+    font-size: medium;
+    padding: 10px 10px;
+    } 
+    
+  li a:hover {
+    text-decoration: underline;
+    }
+
+    

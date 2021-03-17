@@ -1,0 +1,32 @@
+/* Add your styles here */
+body {
+    background: white;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+
+  h1, p {
+    color: rgb(245, 55, 70);
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: larger;
+    display: ruby-base;
+    float: inherit;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font-weight: lighter;
+    font-family: fantasy;
+  } 
